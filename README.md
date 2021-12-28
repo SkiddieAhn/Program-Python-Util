@@ -9,4 +9,4 @@ Utility Program with Python
 * sh_calculattor: https://shacoding.com/2019/07/25/python-gui-term-project/
 * skiddie_ahn_google_crawling: https://shacoding.com/2021/12/28/python-%ea%b5%ac%ea%b8%80-%ec%9d%b4%eb%af%b8%ec%a7%80-%ed%81%ac%eb%a1%a4%eb%a7%81-%eb%8b%a4%ec%9a%b4%eb%a1%9c%eb%93%9c-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8/
 
-(주의) 버전 호환이 안 되어서 실행이 불가능할 수도 있습니다!!
+<strong>(주의)</strong> 버전 호환이 안 되어서 실행이 불가능할 수도 있습니다!!
