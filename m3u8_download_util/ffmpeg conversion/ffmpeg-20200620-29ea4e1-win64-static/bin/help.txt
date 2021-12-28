@@ -1,0 +1,5 @@
+command line
+
+xhr Type
+cd D:\ffmpeg conversion\ffmpeg-20200620-29ea4e1-win64-static\bin
+ffmpeg.exe -i "https://blahblahblah.m3u8" -bsf:a aac_adtstoasc -c copy ./save/hello.mp4

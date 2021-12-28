@@ -1,0 +1,14 @@
+enlist:2018/1/1
+private2018/2/4
+privatefirst2018/4/9
+Corporal2018/11/5
+sergeant2019/6/13
+discharge2019/8/13
+1+2x5 = 11.0
+8x5+3 = 43.0
+enlist:2018/1/1
+private2018/2/15
+privatefirst2018/4/15
+Corporal2018/11/3
+sergeant2019/6/11
+discharge2019/8/13
